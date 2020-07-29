@@ -16,6 +16,22 @@
     ],
     "timestamp": "Sep/01/2021 17:26"
   },
+  "CF88265167": {
+    "contest_id": 71,
+    "language": "Python 3",
+    "path": "codeforces/71/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Way Too Long Words",
+    "problem_url": "https://codeforces.com/contest/71/problem/A",
+    "submission_id": "CF88265167",
+    "submission_url": "https://codeforces.com/contest/71/submission/88265167",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/29/2020 10:16"
+  },
   "CF88268191": {
     "contest_id": 231,
     "language": "Python 3",
