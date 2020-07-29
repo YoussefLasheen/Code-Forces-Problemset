@@ -16,6 +16,23 @@
     ],
     "timestamp": "Sep/01/2021 17:26"
   },
+  "CF88276653": {
+    "contest_id": 160,
+    "language": "Python 3",
+    "path": "codeforces/160/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Twins",
+    "problem_url": "https://codeforces.com/contest/160/problem/A",
+    "submission_id": "CF88276653",
+    "submission_url": "https://codeforces.com/contest/160/submission/88276653",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/29/2020 12:41"
+  },
   "CF88277703": {
     "contest_id": 133,
     "language": "Python 3",
