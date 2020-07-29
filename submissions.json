@@ -16,6 +16,23 @@
     ],
     "timestamp": "Sep/01/2021 17:26"
   },
+  "CF88270735": {
+    "contest_id": 158,
+    "language": "Python 3",
+    "path": "codeforces/158/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Next Round",
+    "problem_url": "https://codeforces.com/contest/158/problem/A",
+    "submission_id": "CF88270735",
+    "submission_url": "https://codeforces.com/contest/158/submission/88270735",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/29/2020 11:23"
+  },
   "CF88271275": {
     "contest_id": 50,
     "language": "Python 3",
