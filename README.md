@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+12 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [Python 3](./codeforces/263/A.py) | `implementation` `*800` | Sep/01/2021 22:09 | 
 11 | [A - Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | [Python 3](./codeforces/1560/A.py) | `implementation` `*800` | Sep/01/2021 21:40 | 
 10 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [Python 3](./codeforces/1512/A.py) | `brute force` `implementation` `*800` | Sep/01/2021 17:26 | 
 9 | [A - HQ9+](https://codeforces.com/contest/133/problem/A) | [Python 3](./codeforces/133/A.py) | `implementation` `*900` | Jul/29/2020 12:54 | 
