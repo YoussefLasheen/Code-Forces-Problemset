@@ -16,6 +16,22 @@
     ],
     "timestamp": "Sep/01/2021 17:26"
   },
+  "CF127644552": {
+    "contest_id": 1560,
+    "language": "Python 3",
+    "path": "codeforces/1560/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dislike of Threes",
+    "problem_url": "https://codeforces.com/contest/1560/problem/A",
+    "submission_id": "CF127644552",
+    "submission_url": "https://codeforces.com/contest/1560/submission/127644552",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/01/2021 21:40"
+  },
   "CF88223102": {
     "contest_id": 4,
     "language": "Python 3",
