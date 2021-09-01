@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/YoussefLasheen.svg)](https://codeforces.com/profile/YoussefLasheen)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [Python 3](./codeforces/1512/A.py) | `brute force` `implementation` `*800` | Sep/01/2021 17:26 | 
