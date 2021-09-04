@@ -65,6 +65,23 @@
     ],
     "timestamp": "Sep/01/2021 23:00"
   },
+  "CF127866068": {
+    "contest_id": 1547,
+    "language": "Python 3",
+    "path": "codeforces/1547/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shortest Path with Obstacle",
+    "problem_url": "https://codeforces.com/contest/1547/problem/A",
+    "submission_id": "CF127866068",
+    "submission_url": "https://codeforces.com/contest/1547/submission/127866068",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/04/2021 20:29"
+  },
   "CF88223102": {
     "contest_id": 4,
     "language": "Python 3",
