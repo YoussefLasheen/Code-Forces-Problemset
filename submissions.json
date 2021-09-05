@@ -82,6 +82,23 @@
     ],
     "timestamp": "Sep/04/2021 20:29"
   },
+  "CF127917648": {
+    "contest_id": 1519,
+    "language": "Python 3",
+    "path": "codeforces/1519/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Cake Is a Lie",
+    "problem_url": "https://codeforces.com/contest/1519/problem/B",
+    "submission_id": "CF127917648",
+    "submission_url": "https://codeforces.com/contest/1519/submission/127917648",
+    "tags": [
+      "dp",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/05/2021 15:28"
+  },
   "CF88223102": {
     "contest_id": 4,
     "language": "Python 3",

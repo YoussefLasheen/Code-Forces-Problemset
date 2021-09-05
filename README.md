@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+15 | [B - The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) | [Python 3](./codeforces/1519/B.py) | `dp` `math` `*800` | Sep/05/2021 15:28 | 
 14 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Python 3](./codeforces/1547/A.py) | `implementation` `math` `*800` | Sep/04/2021 20:29 | 
 13 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [Python 3](./codeforces/118/A.py) | `implementation` `strings` `*1000` | Sep/01/2021 23:00 | 
 12 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [Python 3](./codeforces/263/A.py) | `implementation` `*800` | Sep/01/2021 22:09 | 
