@@ -99,6 +99,22 @@
     ],
     "timestamp": "Sep/05/2021 15:28"
   },
+  "CF127974504": {
+    "contest_id": 1567,
+    "language": "Python 3",
+    "path": "codeforces/1567/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino Disaster",
+    "problem_url": "https://codeforces.com/contest/1567/problem/A",
+    "submission_id": "CF127974504",
+    "submission_url": "https://codeforces.com/contest/1567/submission/127974504",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Sep/05/2021 18:11"
+  },
   "CF88223102": {
     "contest_id": 4,
     "language": "Python 3",
