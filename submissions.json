@@ -115,6 +115,23 @@
     ],
     "timestamp": "Sep/05/2021 18:11"
   },
+  "CF128030492": {
+    "contest_id": 1553,
+    "language": "Python 3",
+    "path": "codeforces/1553/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Digits Sum",
+    "problem_url": "https://codeforces.com/contest/1553/problem/A",
+    "submission_id": "CF128030492",
+    "submission_url": "https://codeforces.com/contest/1553/submission/128030492",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Sep/06/2021 11:43"
+  },
   "CF128039275": {
     "contest_id": 1560,
     "language": "Python 3",
