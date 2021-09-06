@@ -115,6 +115,23 @@
     ],
     "timestamp": "Sep/05/2021 18:11"
   },
+  "CF128039275": {
+    "contest_id": 1560,
+    "language": "Python 3",
+    "path": "codeforces/1560/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Infinity Table",
+    "problem_url": "https://codeforces.com/contest/1560/problem/C",
+    "submission_id": "CF128039275",
+    "submission_url": "https://codeforces.com/contest/1560/submission/128039275",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/06/2021 13:44"
+  },
   "CF128114005": {
     "contest_id": 1506,
     "language": "Python 3",
