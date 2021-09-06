@@ -115,6 +115,26 @@
     ],
     "timestamp": "Sep/05/2021 18:11"
   },
+  "CF128028777": {
+    "contest_id": 1562,
+    "language": "Python 3",
+    "path": "codeforces/1562/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Scenes From a Memory",
+    "problem_url": "https://codeforces.com/contest/1562/problem/B",
+    "submission_id": "CF128028777",
+    "submission_url": "https://codeforces.com/contest/1562/submission/128028777",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Sep/06/2021 11:18"
+  },
   "CF128030492": {
     "contest_id": 1553,
     "language": "Python 3",
