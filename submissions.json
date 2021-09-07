@@ -115,6 +115,24 @@
     ],
     "timestamp": "Sep/05/2021 18:11"
   },
+  "CF128114005": {
+    "contest_id": 1506,
+    "language": "Python 3",
+    "path": "codeforces/1506/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Double-ended Strings",
+    "problem_url": "https://codeforces.com/contest/1506/problem/C",
+    "submission_id": "CF128114005",
+    "submission_url": "https://codeforces.com/contest/1506/submission/128114005",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Sep/07/2021 12:11"
+  },
   "CF88223102": {
     "contest_id": 4,
     "language": "Python 3",
